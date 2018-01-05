@@ -18,4 +18,5 @@ $(document).ready(function() {
 
         $("#content_tempkate_anchor2").append(stone);
     });
+
 });
